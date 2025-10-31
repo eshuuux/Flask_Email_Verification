@@ -38,7 +38,7 @@ Flask\_Email\_Verification/
 
 ⚙️ Installation
 
-1. Clone this repository:
+1\. Clone this repository:
 
 git clone https://github.com/<your-username>/Flask\_Email\_Verification.git
 
@@ -60,13 +60,13 @@ app.config\["MAIL\_PASSWORD"] = "your\_app\_password"
 
 
 
-3\. Run the app:
+4\. Run the app:
 
 python app.py
 
 
 
-4\. Visit:
+5\. Visit:
 
 http://127.0.0.1:5000
 
