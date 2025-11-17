@@ -40,7 +40,7 @@ Flask\_Email\_Verification/
 
 1\. Clone this repository:
 
-git clone https://github.com/<your-username>/Flask\_Email\_Verification.git
+git clone https://github.com/eshuuux/Flask\_Email\_Verification.git
 
 cd Flask\_Email\_Verification
 
